@@ -13,7 +13,7 @@ Orange is baseline, blue is the method from paper.
 
 
 ## Citation
-
+```bibtex
 @inproceedings{ren2018learning,
   title={Learning to reweight examples for robust deep learning},
   author={Ren, Mengye and Zeng, Wenyuan and Yang, Bin and Urtasun, Raquel},
@@ -22,3 +22,4 @@ Orange is baseline, blue is the method from paper.
   year={2018},
   organization={PMLR}
 }
+```
