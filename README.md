@@ -5,9 +5,8 @@ Core of the paper is the following algorithm.
 <img src="reweight_alg.png" width="400" />
 
 Simply see the notebook for my implementation.
-I was able to replicate the imbalanced MNIST experiment from the paper.
 
-Orange is baseline, blue is the method from paper.
+I was able to replicate the imbalanced MNIST experiment from the paper.Orange is baseline, blue is the method from paper.
 
 <img src="results.png" width="600" />
 
