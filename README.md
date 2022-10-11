@@ -6,7 +6,7 @@ Core of the paper is the following algorithm.
 
 Simply see the notebook for my implementation.
 
-I was able to replicate the imbalanced MNIST experiment from the paper.Orange is baseline, blue is the method from paper.
+I was able to replicate the imbalanced MNIST experiment from the paper. Orange is the baseline, blue is the method from paper.
 
 <img src="results.png" width="600" />
 
